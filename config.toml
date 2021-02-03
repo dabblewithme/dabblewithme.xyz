@@ -8,7 +8,7 @@ baseURL = "https://dabblewithme.xyz/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
-# disqusShortname = ""
+disqusShortname = "dabblewithme"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 googleAnalytics = "UA-188860574-1" 
