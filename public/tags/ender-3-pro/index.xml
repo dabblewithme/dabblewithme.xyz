@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on DabbleWithMe</title>
-    <link>https://dabblewithme.xyz/blog/</link>
-    <description>Recent content in Blogs on DabbleWithMe</description>
+    <title>Ender 3 Pro on DabbleWithMe</title>
+    <link>https://dabblewithme.xyz/tags/ender-3-pro/</link>
+    <description>Recent content in Ender 3 Pro on DabbleWithMe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Wed, 03 Feb 2021 14:15:35 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Feb 2021 14:15:35 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/tags/ender-3-pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Favorite upgrades to my Ender 3 Pro 3D printer</title>
       <link>https://dabblewithme.xyz/blog/favorite-upgrades-to-my-ender-3-pro-3d-printer/</link>
@@ -17,17 +17,6 @@
       <description>I have been using my Ender 3 Pro 3D printer for over a year now. So I have been printing upgrades and also I have purchased some upgrades! Here are some of my favorites.
 BLTouch This is probaply one of my favorite upgrades to my 3D printer that I have bought. BLTouch makes the whole bed leveling/tramming process super easy. Configure once and then just print.
 Installation is quite easy and then you just need to configure Marlin and dabble with settings.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://dabblewithme.xyz/blog/hello-world/</link>
-      <pubDate>Wed, 03 Feb 2021 08:47:52 +0200</pubDate>
-      
-      <guid>https://dabblewithme.xyz/blog/hello-world/</guid>
-      <description>Hello World! This is basically a guaranteed first post for programmer!
-Welcome to my brand spanking new blog. I do not remember how many blogs I&amp;rsquo;ve had but not so many in english. I have some finnish blogs but this is the first english one that will tackle my hobby with 3D printing and tinkering around stuff.
-This blog is also my first project with Hugo. So this will be interesting project for that.</description>
     </item>
     
   </channel>
