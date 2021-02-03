@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DabbleWithMe</title>
+    <link>https://dabblewithme.xyz/</link>
+    <description>Recent content on DabbleWithMe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Wed, 03 Feb 2021 08:47:52 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>https://dabblewithme.xyz/blog/hello-world/</link>
+      <pubDate>Wed, 03 Feb 2021 08:47:52 +0200</pubDate>
+      
+      <guid>https://dabblewithme.xyz/blog/hello-world/</guid>
+      <description>Hello World! This is basically a guaranteed first post for programmer!
+Welcome to my brand spanking new blog. I do not remember how many blogs I&amp;rsquo;ve had but not so many in english. I have some finnish blogs but this is the first english one that will tackle my hobby with 3D printing and tinkering around stuff.
+This blog is also my first project with Hugo. So this will be interesting project for that.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dabblewithme.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dabblewithme.xyz/about/</guid>
+      <description>DablleWithMe.xyz is a blog about dabbling. Well that was clear?
+In this blog you will find some blog posts about dabbling with 3D printing, web, code and other random stuff. If you like what this sounds like be sure to follow me in the social media.
+This blog is build with Hugoand source code is available on Github. I use UpCloudto run my servers.
+Man behind the blog is finnish geek from Kuopio.</description>
+    </item>
+    
+  </channel>
+</rss>
