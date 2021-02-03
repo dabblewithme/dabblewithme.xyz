@@ -19,5 +19,17 @@ Welcome to my brand spanking new blog. I do not remember how many blogs I&amp;rs
 This blog is also my first project with Hugo. So this will be interesting project for that.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://dabblewithme.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dabblewithme.xyz/about/</guid>
+      <description>DablleWithMe.xyz is a blog about dabbling. Well that was clear?
+In this blog you will find some blog posts about dabbling with 3D printing, web, code and other random stuff. If you like what this sounds like be sure to follow me in the social media.
+This blog is build with Hugoand source code is available on Github. I use UpCloudto run my servers.
+Man behind the blog is finnish geek from Kuopio.</description>
+    </item>
+    
   </channel>
 </rss>
