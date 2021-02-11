@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Wed, 03 Feb 2021 14:15:35 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/tags/3d-printer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 12:56:02 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/tags/3d-printer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Some issues with my BigTreeTech TFT35 E3 v3.0 touch display</title>
+      <link>https://dabblewithme.xyz/blog/some-issues-with-my-bigtreetech-tft35-e3-v30-touch-display/</link>
+      <pubDate>Thu, 11 Feb 2021 12:56:02 +0200</pubDate>
+      
+      <guid>https://dabblewithme.xyz/blog/some-issues-with-my-bigtreetech-tft35-e3-v30-touch-display/</guid>
+      <description>Well here it comes. Some list of issues that I have at the moment with my TFT35 E3 v3.0 touch display. I will update this post or make a new post if I get some of them fixed.
+M600 / Filament change I tried multicolor printing with filament change middle of the print. I used PrusaSlicer to do M600 (filament change) command on specific layer. It worked just fine with the stock display that my Ender 3 Pro had.</description>
+    </item>
+    
     <item>
       <title>Favorite upgrades to my Ender 3 Pro 3D printer</title>
       <link>https://dabblewithme.xyz/blog/favorite-upgrades-to-my-ender-3-pro-3d-printer/</link>
