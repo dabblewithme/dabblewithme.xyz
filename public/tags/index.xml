@@ -7,22 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Fri, 12 Feb 2021 13:14:45 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Mar 2021 13:37:39 +0200</lastBuildDate><atom:link href="https://dabblewithme.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D printer</title>
+      <link>https://dabblewithme.xyz/tags/3d-printer/</link>
+      <pubDate>Mon, 22 Mar 2021 13:37:39 +0200</pubDate>
+      
+      <guid>https://dabblewithme.xyz/tags/3d-printer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CR-10 v3</title>
+      <link>https://dabblewithme.xyz/tags/cr-10-v3/</link>
+      <pubDate>Mon, 22 Mar 2021 13:37:39 +0200</pubDate>
+      
+      <guid>https://dabblewithme.xyz/tags/cr-10-v3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creality</title>
+      <link>https://dabblewithme.xyz/tags/creality/</link>
+      <pubDate>Mon, 22 Mar 2021 13:37:39 +0200</pubDate>
+      
+      <guid>https://dabblewithme.xyz/tags/creality/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3D</title>
       <link>https://dabblewithme.xyz/tags/3d/</link>
       <pubDate>Fri, 12 Feb 2021 13:14:45 +0200</pubDate>
       
       <guid>https://dabblewithme.xyz/tags/3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3D printer</title>
-      <link>https://dabblewithme.xyz/tags/3d-printer/</link>
-      <pubDate>Fri, 12 Feb 2021 13:14:45 +0200</pubDate>
-      
-      <guid>https://dabblewithme.xyz/tags/3d-printer/</guid>
       <description></description>
     </item>
     
@@ -41,15 +59,6 @@
       <pubDate>Thu, 11 Feb 2021 12:56:02 +0200</pubDate>
       
       <guid>https://dabblewithme.xyz/tags/tft35/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creality</title>
-      <link>https://dabblewithme.xyz/tags/creality/</link>
-      <pubDate>Wed, 03 Feb 2021 14:15:35 +0200</pubDate>
-      
-      <guid>https://dabblewithme.xyz/tags/creality/</guid>
       <description></description>
     </item>
     
